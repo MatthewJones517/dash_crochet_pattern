@@ -9,6 +9,10 @@ To address the "Great Dash Shortage" my partner has created a Dash Crochet patte
 
 My partner is the ultimate softWEAR developer with a passion for all things fiber related. If you're in eastern Virginia and interested in learning to knit or crochet, check out [Yarn Party](https://www.goyarnparty.com). You're also welcome to reach out to her there if you have questions.
 
+![Crocheted Dash with White Background](https://github.com/MatthewJones517/dash_crochet_pattern/blob/main/images/dash2.png?raw=true)
+
+![Crocheted Dash with Woodgrain Background](https://github.com/MatthewJones517/dash_crochet_pattern/blob/main/images/dash1.png?raw=true)
+
 One note... The pattern mentions a bottom pouch. This is for a game I created for Fluttercon Europe 2025. The bottom pouch is to hold a [Bluetooth nRF51822 iBeacon](https://www.aliexpress.us/item/2251832686168978.html?gatewayAdapt=glo2usa). I hid these all over the convention and invited attendees to download the [Flockinator App](https://flockinator.makerinator.com/) to find them. 
 
 If you don't need to hide a BEAKon in your Dash, feel free to skip that part. ;) 
