@@ -7,7 +7,7 @@ Stuffed Dash birds are coveted in the community and almost impossible to find. I
 
 To address the "Great Dash Shortage" my partner has created a Dash Crochet pattern. Everything below is her work. She generously has agreed to open source the pattern so feel free to use it however you like. :) 
 
-My partner is the ultimate softWEAR developer with a passion for all things fiber related. If you're in eastern Virginia and interested in learning to knit or crochet, check out [Yarn Party](https://www.goyarnparty.com).
+My partner is the ultimate softWEAR developer with a passion for all things fiber related. If you're in eastern Virginia and interested in learning to knit or crochet, check out [Yarn Party](https://www.goyarnparty.com). You're also welcome to reach out to her there if you have questions.
 
 One note... The pattern mentions a bottom pouch. This is for a game I created for Fluttercon Europe 2025. The bottom pouch is to hold a [Bluetooth nRF51822 iBeacon](https://www.aliexpress.us/item/2251832686168978.html?gatewayAdapt=glo2usa). I hid these all over the convention and invited attendees to download the [Flockinator App](https://flockinator.makerinator.com/) to find them. 
 
