@@ -83,7 +83,7 @@ Stuff body
 - Round 15 – cut yarn leaving a long tail, using a tapestry needle thread yarn through each live stitch going around twice  and cinch to close.  Weave end then pull through body and snip tail pulling the end inside the body. 
 
 **Optional Finish 2 (add a pouch on the bottom)**
-- Round 15 – SS across stitches to close the bottom, then SS to the raised loops opposite the eyes. These are the loops created in round 13 by working the BLO
+- Round 15 – SS across stitches to close the bottom, then SS to the raised loops opposite the eyes. (These are the loops created in round 13 by working the BLO).
 - Round 16 – Pick-up SC stitches in a half circle around the bottom of the body using the visible loops from round 13 being careful to leave an open gap at the back to insert a beacon (14 STS)
 - Round 17 – CH 1, turn, 4 SC, *[DEC across next 2 stitches], repeat from * twice more, then 4 SC (11 STS)
 - Round 18 – CH 1, turn, 3 SC, *[DEC across next 2 stitches], repeat from * once more, then SS into stitches opposite to  close the round.  FO and weave end then pull through the body and snip tail pulling the end inside the body.
