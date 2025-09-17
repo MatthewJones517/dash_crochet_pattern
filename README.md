@@ -19,7 +19,7 @@ If you don't need to hide a BEAKon in your Dash, feel free to skip that part. ;)
 
 And now for the pattern! (I'm proud of myself for not trying to make this a YARN package!)
 
-# Crochet Flockinator Bird
+# Dash
 
 **Hook:**  US size G/6 [4mm]
 **Yarn:**  Medium Worsted [size 4] weight yarn in Dash colors – light blue, teal blue, light brown, & white
