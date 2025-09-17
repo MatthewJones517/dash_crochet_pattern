@@ -83,13 +83,13 @@ Stuff body
 - Round 15 – cut yarn leaving a long tail, using a tapestry needle thread yarn through each live stitch going around twice  and cinch to close.  Weave end then pull through body and snip tail pulling the end inside the body. 
 
 **Optional Finish 2 (add a pouch on the bottom)**
-- Round 15 – SS across stitches to close the bottom, then SS to the raised loops opposite the eyes.  
+- Round 15 – SS across stitches to close the bottom, then SS to the raised loops opposite the eyes. These are the loops created in round 13 by working the BLO
 - Round 16 – Pick-up SC stitches in a half circle around the bottom of the body using the visible loops from round 13 being careful to leave an open gap at the back to insert a beacon (14 STS)
 - Round 17 – CH 1, turn, 4 SC, *[DEC across next 2 stitches], repeat from * twice more, then 4 SC (11 STS)
 - Round 18 – CH 1, turn, 3 SC, *[DEC across next 2 stitches], repeat from * once more, then SS into stitches opposite to  close the round.  FO and weave end then pull through the body and snip tail pulling the end inside the body.
+<br /><br />
 
-**Eye Highlights** (worked in the round) – Make 2
-Using teal blue yarn, make a slip knot, then CH 2
+**Eye Highlights** (worked in the round, make 2) Using teal blue yarn, make a slip knot, then CH 2
 
 - Round 1 – 6 SC in 2nd CH from hook, SS into top of first stitch to close the round and FO (6 STS)
 
@@ -107,7 +107,7 @@ Using light brown yarn, make a slip knot, then CH 8
 Finishing:  Fold triangle in half so the long sides are touching and SS along edge to create a cone.  Cut yarn and stuff beak with one yarn tail.  Use the 2nd tail to sew beak to the body then secure by pulling the tail inside the body.
 
 ---
-**Wings** – Make 2
+**Wings** (Make 2)
 Using teal blue yarn, make a slip knot, then CH 3
 
 - Row 1 – 4 HDC in 3rd CH from hook (4 STS)
@@ -135,7 +135,7 @@ Using teal blue yarn, make a slip knot, then CH 6
 Finishing:  Cut yarn and weave one yarn tail into a few stitches on the tail then cut.  Use the 2nd yarn tail to sew piece to the body then secure by pulling the tail inside the body. 
 
 ---
-**Feet** – Make 2
+**Feet**
 Using light brown yarn, make a slip knot, then CH 2
 
 - Row 1 – 4 SC in 2nd CH from hook (4 STS)
